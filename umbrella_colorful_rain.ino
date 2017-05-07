@@ -5,7 +5,7 @@
 // Arduino Pro Mini were used to control the 8 stripes, while one worked unstable controlling 8 stripes. The power
 // supply was realized by an ordinary power bank. A video of the project can be found at https://youtu.be/2npH8hMX6MA.
 //
-// I tested this code also with an atTiny85, it works but only one LED stripe could be controlled.
+// I tested this code also with an ATtiny85, it works but only one LED stripe could be controlled.
 //
 // For comments or questions please contact me at marlonalexander.fleck@gmail.com. 
 
