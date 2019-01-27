@@ -13,4 +13,4 @@ I tested this code also with an atTiny85, it works but only one LED stripe could
 
 A video of the project can be found at https://youtu.be/2npH8hMX6MA.
 
-[![Watch the video](https://img.youtube.com/vi/2npH8hMX6MA/maxresdefault.jpg)](https://youtu.be/2npH8hMX6MA)
+[![Watch the video](https://img.youtube.com/vi/2npH8hMX6MA/hqdefault.jpg)](https://youtu.be/2npH8hMX6MA)
